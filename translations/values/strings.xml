@@ -350,7 +350,7 @@
     <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
     <string name="collapse">Collapse</string>
     <string name="expand">Expand</string>
-    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software permission for the floating window</string>
     <string name="float_support">Float support</string>
     <string name="float_support_dsp">Float support DSP</string>
     <string name="warning">⚠️WARNING</string>
@@ -358,7 +358,7 @@
     <string name="agree">Agree</string>
     <string name="disagree">Disagree</string>
     <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
-    <string name="status_bar_lyrics_intro">System-level status bar lyrics, note that this requires system support, such as MEIZU Flyme, etc. (⚠️Note: If the system does not support it, please keep it off, otherwise it may cause abnormal display of media notifications)</string>
+    <string name="status_bar_lyrics_intro">Requires system support such as MEIZU Flyme, etc. (⚠️Note: If the system does not support it, please keep it off, otherwise it may cause abnormal display of media notifications)</string>
     <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
     <string name="restore_audio_settings_intro">The following values will be restored to default, and the software will automatically restart after restoration (modifications related to some audio settings will take effect after switching songs)</string>
     <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
@@ -368,7 +368,7 @@
     <string name="d_selected">%d selected</string>
     <string name="play_the_selected_queue">Play the selected queue</string>
     <string name="volume_balance">Volume normalization</string>
-    <string name="volume_balance_tip">Utilizes the REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags embedded within the file and adjusts the volume based on this value. Gain value can be adjusted by some software, such as using foobar2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
+    <string name="volume_balance_tip">Utilizes the REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags embedded within the file and adjusts the volume based on this value. Some software can adjust the gain value, such as using foobar2000 -> Scan per-file track gain, etc. Changes to this option will take effect after switching songs or replaying</string>
     <string name="compressor">Compressor</string>
     <string name="compressor_tip">Dynamically adjusts volume level by making loud passages quieter, and quiet passages louder</string>
     <string name="auto_playback">Auto playback</string>
